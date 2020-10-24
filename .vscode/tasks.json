@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "week7/",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - week7",
+			"detail": "react-scripts build"
+		}
+	]
+}
